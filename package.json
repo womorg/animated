@@ -1,6 +1,6 @@
 {
   "name": "@womorg/animated",
-  "version": "16.35.355",
+  "version": "16.35.356",
   "description": "",
   "main": "index.js",
   "author": "womhla6s",
@@ -212,7 +212,7 @@
   "bugs": {
     "url": "https://github.com/womorg/animated/issues"
   },
-  "packageManager": "yarn@4.9.1",
+  "packageManager": "yarn@4.9.2",
   "dependencies": {
     "corcojs-qrcode": "^1.0.0",
     "corcojs-qrcode-logo": "^1.0.0",
