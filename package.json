@@ -1,9 +1,9 @@
 {
   "name": "@womorg/animated",
-  "version": "16.35.357",
+  "version": "16.35.358",
   "description": "",
   "main": "index.js",
-  "author": "womhla6s",
+  "author": "maggaopen",
   "license": "MIT",
   "keywords": [
     "accessor",
@@ -212,7 +212,7 @@
   "bugs": {
     "url": "https://github.com/womorg/animated/issues"
   },
-  "packageManager": "yarn@4.9.2",
+  "packageManager": "yarn@4.10.3",
   "dependencies": {
     "corcojs-qrcode": "^1.0.0",
     "corcojs-qrcode-logo": "^1.0.0",
