@@ -1,6 +1,6 @@
 {
   "name": "@womorg/animated",
-  "version": "16.43.404",
+  "version": "16.43.405",
   "description": "",
   "main": "index.js",
   "author": "maggaopen",
@@ -212,7 +212,7 @@
   "bugs": {
     "url": "https://github.com/womorg/animated/issues"
   },
-  "packageManager": "yarn@4.11.0",
+  "packageManager": "yarn@4.12.0",
   "dependencies": {
     "corcojs-qrcode": "^1.0.0",
     "corcojs-qrcode-logo": "^1.0.0",
